@@ -19,9 +19,13 @@
 }
 .navbar .navbar-nav .nav-item a{
   color:fff;
-  margin-right: 90px;
-  margin-left: 0px;
+  margin-right:100px;
+  margin-left:55px;
 }
 .navbar .navbar-nav .nav-item a:hover{
   background-color: rgba(0,0,0,0.3);
+}
+.navbar .navbar-brand{
+  margin:0 auto;
+  padding-left: 100px;
 }
