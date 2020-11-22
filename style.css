@@ -1,0 +1,33 @@
+#bg-video{
+  position:fixed;
+  x-index:-1;
+}
+@media (min-aspect-ratio:16/9){
+  #bg-video{
+    width:100%;
+    height:auto;
+  }
+}
+@media (max-aspect-ratio:16/9){
+  #bg-video{
+    width:auto;
+    height:100%;
+  }
+}
+.navbar .navbar-nav .nav-item a{
+  color:#fff;
+  margin-right:50px;
+  margin-left:55px;
+}
+.navbar .navbar-nav .nav-item a:hover{
+  background-color: rgba(4,34,142,0.6);
+  border-radius:15px;
+}
+.navbar .navbar-brand{
+  margin:0 auto;
+  padding-left: 20px;
+}
+.card-img-top{
+  max-width:100%;
+  height:auto;
+}
