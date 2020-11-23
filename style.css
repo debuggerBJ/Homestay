@@ -32,6 +32,12 @@
   max-width:100%;
   height:auto;
 }
+.lightbox img{
+	display:block;
+	max-width:100%;
+		height:auto;
+	
+}
 /*CSS from Rupak Bastola */
 		img.art {
 			width: 100%;
