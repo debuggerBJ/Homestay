@@ -31,3 +31,26 @@
   max-width:100%;
   height:auto;
 }
+/* for the middle section */
+.banner{
+  position:absolute;
+  top: 50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+  color: #fff;
+}
+.btn{
+  display: inline-block;
+  margin-top: 5px;
+  background: transparent;
+  border: 0;
+  text-transform: uppercase;
+  border:1px solid #fff;
+  padding: 10px 25px;
+  color: #fff;
+  border-radius: 25px;
+}
+.btn:hover{
+  color: orange;
+}
