@@ -1,0 +1,58 @@
+.nav-link:hover {
+    background-color: black;
+    border-radius: 5px;
+    border-bottom: solid springgreen;
+}
+
+.align-top:hover {
+    background-color: springgreen;
+    border-radius: 100%;
+    border: 3px solid springgreen;
+}
+
+.nav-link {
+    border-bottom: 2px solid rgba(20, 40, 40, 0.034);
+    margin: 0px 10px 0px 10px;
+}
+
+.nav-item {
+    margin: 10px;
+}
+
+.align-top {
+    border-radius: 100%;
+    border: 5px solid rgba(20, 40, 40, 0.034);
+}
+
+.modal-header {
+    background-color: black;
+    color: springgreen;
+}
+
+.modal-body {
+    background-color: black;
+    color: white;
+}
+
+.imgcol {
+    text-align: center;
+}
+
+.myimg {
+    width: 400px;
+    height: 400px;
+    border-radius: 100%;
+}
+
+.container-fluid {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.hrow {
+    height: 500px;
+    overflow-y: scroll;
+}
+.frow{
+    padding-top: 5px;
+}
